@@ -6,3 +6,5 @@ Day_004/credit_card_balance.csv
 Day_004/installments_payments.csv
 Day_004/POS_CASH_balance.csv
 Day_004/previous_application.csv
+Day_004/data/previous_application.csv
+*.csv
