@@ -38,3 +38,10 @@ Day_010/data/example01.json
 Day_010/data/example02.json
 Day_010/data/house_test.csv.gz
 Day_010/data/house_train.csv.gz
+data/example.jpg
+data/example.mat
+data/example.npy
+data/example.pkl
+data/example.txt
+data/example01.json
+data/example02.json
