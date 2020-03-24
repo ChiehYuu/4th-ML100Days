@@ -48,3 +48,5 @@ data/example02.json
 Day_011/data/.application_train.csv.icloud
 Day_021/data/.application_test.csv.icloud
 Day_020/data/.application_train.csv.icloud
+data/house_train.csv.gz
+data/house_test.csv.gz
